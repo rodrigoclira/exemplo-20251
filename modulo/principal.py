@@ -4,6 +4,8 @@ from pacote import mod2
 
 print(mod1.func_z())
 print(mod1.y)
+print(mod1.y)
+
 print(y)
 print(y)
 
