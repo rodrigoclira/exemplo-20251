@@ -5,6 +5,7 @@ from pacote import mod2
 print(mod1.func_z())
 print(mod1.y)
 print(y)
+print(y)
 
 print(f"Soma de 3 + 1 = {mod2.soma(3)}")
 print(f"Subtração de 3 - 1 = {mod2.subtracao(3)}")
